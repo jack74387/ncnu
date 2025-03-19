@@ -18,8 +18,8 @@ Run the program with two commands as arguments. The first command will write to 
 ./pipe_exec "command1" "command2"
 ```
 - Example Usage
-```bash
-./pipe_exec "ls -l" "less"
-```
-    This will execute ls -l and send the output to less.
+    ```bash
+    ./pipe_exec "ls -l" "less"
+    ```
+    - This will execute ls -l and send the output to less.
 
