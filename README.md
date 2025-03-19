@@ -21,5 +21,5 @@ Run the program with two commands as arguments. The first command will write to 
 ```bash
 ./pipe_exec "ls -l" "less"
 ```
-This will execute ls -l and send the output to less.
+    This will execute ls -l and send the output to less.
 
